@@ -1,0 +1,9 @@
+my_flask_project/
+    ├── server/
+    │   ├── app.py
+    │   ├── encryption.py
+    │   └── config.py
+    └── client/
+        ├── client.py
+        ├── encryption.py
+        └── config.py
